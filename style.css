@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.c{
+    width: 80%;
+    margin: 0 auto;
+    max-width: 500px;
+}
+.form{
+    background-color: cadetblue;
+    padding: 3em 12em;
+    border: 1px solid black;
+   
+
+}
+
+.form form{
+    background-color: aquamarine;
+   display: inline-block;
+   
+}
